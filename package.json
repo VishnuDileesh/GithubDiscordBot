@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "format": "standard --fix"
+    "format": "standard --fix",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
